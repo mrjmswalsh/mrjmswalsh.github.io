@@ -26,7 +26,7 @@
       </section>  
   </main>
   <footer>
-    <p style="display:inline-block;"> Author: Mr Crabs<br>
+    <p style="display:inline-block;"> Author: Mr Krabs<br>
     <a href="mailto:mrkrabs@krustykrab.com">mrkrabs@krustykrab.com</a>
     <img id="image" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Mr._Krabs.svg/440px-Mr._Krabs.svg.png" alt="Mr Krabs" width="100" height="100" />
 </p>
